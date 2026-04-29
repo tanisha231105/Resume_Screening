@@ -1,0 +1,14 @@
+Geethanjali - Full-Stack ML Engineer
+
+Skills:
+Python, FastAPI, React, TypeScript, Tailwind CSS, SQL, pandas, NumPy, scikit-learn, spaCy, NLP, Docker
+
+Experience:
+- Built an AI resume screener using FastAPI and React, with TF-IDF vectorization and cosine similarity for ATS scoring.
+- Developed NLP skill extraction pipelines using spaCy and custom dictionaries.
+- Implemented dashboards with Tailwind and modern card-based layouts.
+- Added CI/CD pipelines and containerized services using Docker.
+
+Projects:
+- Skill Gap Analyzer with suggestion generation and recruiter-focused explanations.
+

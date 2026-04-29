@@ -1,0 +1,22 @@
+Senior Full-Stack + ML Engineer
+
+We are looking for an engineer with strong product thinking and applied NLP experience.
+
+Must have:
+- Python
+- FastAPI
+- React
+- TypeScript
+- Tailwind CSS
+- spaCy
+- scikit-learn
+- TF-IDF
+- cosine similarity
+- SQL
+
+Nice to have:
+- Docker
+- AWS (S3, Lambda)
+- CI/CD
+- monitoring and logging
+

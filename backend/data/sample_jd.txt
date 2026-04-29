@@ -1,0 +1,23 @@
+We are hiring a Software Developer / Full-Stack Engineer with strong backend development and problem-solving skills.
+
+Must have:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Docker
+
+Nice to have:
+- AWS
+- Azure
+- Logging and Monitoring
+- C
+- C++
+- Machine Learning
+- Team collaboration
+- Communication skills
+
+The candidate should have strong analytical thinking, debugging skills, and the ability to work on scalable applications.
