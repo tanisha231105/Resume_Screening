@@ -5,8 +5,11 @@ Production-ready **FastAPI + React** project that screens a resume (PDF/DOCX) ag
 ## Output
 
 <img width="1420" height="883" alt="WhatsApp Image 2026-04-29 at 18 48 48" src="https://github.com/user-attachments/assets/fa02d719-c4a9-46d3-858c-139bcb9f29ba" />
+
 <img width="1458" height="910" alt="WhatsApp Image 2026-04-29 at 18 48 48 (1)" src="https://github.com/user-attachments/assets/d0d56849-4e44-45e0-baee-81776dfca7ea" />
+
 <img width="1518" height="900" alt="WhatsApp Image 2026-04-29 at 18 48 47" src="https://github.com/user-attachments/assets/206bc2bc-8504-4f4d-bb9f-71a6b1c00359" />
+
 <img width="1377" height="809" alt="WhatsApp Image 2026-04-29 at 18 48 47 (1)" src="https://github.com/user-attachments/assets/c5e75b86-a381-4065-a11e-016e43339d9e" />
 
 
